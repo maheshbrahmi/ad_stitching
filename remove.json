@@ -1,0 +1,8 @@
+{ 
+"track_file" : "ivm_episode1.mp3",
+"cmd": "remove",
+"ad_segments" : [ 
+{"markInMillis": 0, "duration": 20000},
+{"markInMillis": 40000, "duration": 20000},
+{"markInMillis": 70000, "duration": 20000}
+] }

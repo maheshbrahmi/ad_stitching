@@ -1,0 +1,8 @@
+{ 
+"track_file" : "ivm_episode1.mp3",
+"cmd": "stitch",
+"ad_segments" : [ 
+{"markInMillis": 5000, "filepath": "kfc.mp3"},
+{"markInMillis": 40000, "filepath": "Geico.mp3"},
+{"markInMillis": 70000, "filepath": "Coke.mp3"}
+] }

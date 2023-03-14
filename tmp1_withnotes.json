@@ -1,0 +1,11 @@
+[{ "AdoriId": 1749, "StartTimeinMilliSec": 0, "StopTimeinMilliSec": 3, "SourceOffsetMillis" :0 },
+{ "AdoriId": 1819, "StartTimeinSec": 6,  "StopTimeinSec": 33, "SourceOffsetMillis" :0 },
+{ "AdoriId": 1749, "StartTimeinSec": 36, "StopTimeinSec": 48,"SourceOffsetMillis" :5500 },
+{ "AdoriId": 1803, "StartTimeinSec": 52, "StopTimeinSec": 67, "SourceOffsetMillis" :0 },
+{ "AdoriId": 1749, "StartTimeinSec": 68, "StopTimeinSec": 731, "SourceOffsetMillis" :22500 }]
+
+Make it millsec
+Fix boundaries ( stopTime)
+Add anoter key
+SourceOffsetMillis  
+Find why we are missing one second after stitching
