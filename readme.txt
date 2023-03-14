@@ -1,4 +1,4 @@
-. venv/bin/activate
+. venv/bin/activate (Mac)
 deactivate
 zip -g ../convert_to_adori.zip app.py
 
